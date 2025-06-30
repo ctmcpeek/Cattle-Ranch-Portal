@@ -5,3 +5,5 @@ sqlalchemy
 flask-mail
 weasyprint
 twilio
+gunicorn
+gunicorn
